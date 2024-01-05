@@ -4,5 +4,5 @@ students names:
 wafa afra
 alaa zerrouki
 malak benaziza
-amine belhadj
-ramzi belaidi
+amine ahmed belhadj
+ramzy zakaria belaidi
